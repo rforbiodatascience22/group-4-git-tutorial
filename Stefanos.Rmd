@@ -1,0 +1,21 @@
+---
+title: "StefCodes"
+author: "StefCodes"
+date: '2022-03-14'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is the turotial for Week6_BioData course
+```{r}
+A=1
+B=3
+C <- A+B
+C
+```
+
