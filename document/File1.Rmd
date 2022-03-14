@@ -1,6 +1,6 @@
 ---
 title: "File1"
-
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
